@@ -9,4 +9,4 @@ go get -u github.com/gorilla/mux
 
 
 Step 3: Run 
-go run main.go
+go run api.go
